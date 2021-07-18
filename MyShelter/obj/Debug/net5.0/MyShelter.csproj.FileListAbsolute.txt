@@ -1,0 +1,16 @@
+E:\Practice\C#\MyShelter\bin\Debug\net5.0\MyShelter.exe
+E:\Practice\C#\MyShelter\bin\Debug\net5.0\MyShelter.deps.json
+E:\Practice\C#\MyShelter\bin\Debug\net5.0\MyShelter.runtimeconfig.json
+E:\Practice\C#\MyShelter\bin\Debug\net5.0\MyShelter.runtimeconfig.dev.json
+E:\Practice\C#\MyShelter\bin\Debug\net5.0\MyShelter.dll
+E:\Practice\C#\MyShelter\bin\Debug\net5.0\ref\MyShelter.dll
+E:\Practice\C#\MyShelter\bin\Debug\net5.0\MyShelter.pdb
+E:\Practice\C#\MyShelter\obj\Debug\net5.0\MyShelter.csproj.AssemblyReference.cache
+E:\Practice\C#\MyShelter\obj\Debug\net5.0\MyShelter.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practice\C#\MyShelter\obj\Debug\net5.0\MyShelter.AssemblyInfoInputs.cache
+E:\Practice\C#\MyShelter\obj\Debug\net5.0\MyShelter.AssemblyInfo.cs
+E:\Practice\C#\MyShelter\obj\Debug\net5.0\MyShelter.csproj.CoreCompileInputs.cache
+E:\Practice\C#\MyShelter\obj\Debug\net5.0\MyShelter.dll
+E:\Practice\C#\MyShelter\obj\Debug\net5.0\ref\MyShelter.dll
+E:\Practice\C#\MyShelter\obj\Debug\net5.0\MyShelter.pdb
+E:\Practice\C#\MyShelter\obj\Debug\net5.0\MyShelter.genruntimeconfig.cache
