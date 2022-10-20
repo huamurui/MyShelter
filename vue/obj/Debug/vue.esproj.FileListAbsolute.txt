@@ -1,0 +1,2 @@
+E:\GitHub\MyShelter\vue\obj\Debug\vue.esproj.SuggestedBindingRedirects.cache
+E:\GitHub\MyShelter\vue\obj\Debug\vue.esproj.CoreCompileInputs.cache
